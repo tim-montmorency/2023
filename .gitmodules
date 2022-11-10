@@ -4,3 +4,6 @@
 [submodule "projets/Boucler-la-boucle"]
 	path = projets/Boucler-la-boucle
 	url = https://github.com/Boucle-RDDL/Boucler-la-boucle
+[submodule "projets/Echomarine"]
+	path = projets/Echomarine
+	url = https://github.com/Echomarine/Echomarine
