@@ -34,7 +34,7 @@ body {
 }
 
 .grille-bg{
-    background-image: url(medias/arriere_plan_full.png);
+    background-image: url(medias/arriere_plan_full.jpg);
     background-repeat: no-repeat;
     background-position: 50% 100%;
     background-size: cover;
