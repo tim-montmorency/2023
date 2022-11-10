@@ -1,3 +1,6 @@
 [submodule "projets/66B-modele_de_projet"]
 	path = projets/66B-modele_de_projet
 	url = https://github.com/tim-montmorency/66B-modele_de_projet.git
+[submodule "projets/Boucler-la-boucle"]
+	path = projets/Boucler-la-boucle
+	url = https://github.com/Boucle-RDDL/Boucler-la-boucle
