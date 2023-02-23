@@ -14,6 +14,10 @@ git submodule add [repository via http] projets/[nom-du-git]
 ### Mettre à jour 
 
 ```
+git pull --recurse-submodules
+```
+ou 
+```
 cd [projets/le-projet]
 git pull
 ```

@@ -16,3 +16,6 @@
 [submodule "projets/ENTRE-FUNGUS"]
 	path = projets/ENTRE-FUNGUS
 	url = https://github.com/F-C-A/ENTRE-FUNGUS
+[submodule "projets/EDRIA"]
+	path = projets/EDRIA
+	url = https://github.com/F-C-A/EDRIA
