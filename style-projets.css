@@ -34,6 +34,19 @@ body {
 
 }
 
+.banniere-bg{
+    background-image: url(medias/TIM_banniere_coul_1000px.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 100%;
+    min-height: 201px;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
 .grille-bg{
     background-image: url(medias/arriere_plan_full.jpg);
     background-repeat: no-repeat;
