@@ -1,9 +1,6 @@
 [submodule "projets/66B-modele_de_projet"]
 	path = projets/66B-modele_de_projet
 	url = https://github.com/tim-montmorency/66B-modele_de_projet.git
-[submodule "projets/Boucler-la-boucle"]
-	path = projets/Boucler-la-boucle
-	url = https://github.com/Boucle-RDDL/Boucler-la-boucle
 [submodule "projets/Echomarine"]
 	path = projets/Echomarine
 	url = https://github.com/Echomarine/Echomarine
@@ -13,9 +10,6 @@
 [submodule "projets/LumaSol"]
 	path = projets/LumaSol
 	url = https://github.com/Kawabongaaa/LumaSol
-[submodule "projets/ENTRE-FUNGUS"]
-	path = projets/ENTRE-FUNGUS
-	url = https://github.com/F-C-A/ENTRE-FUNGUS
 [submodule "projets/EDRIA"]
 	path = projets/EDRIA
 	url = https://github.com/F-C-A/EDRIA
